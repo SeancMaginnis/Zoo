@@ -10,4 +10,5 @@ class Quoll {
     console.log(this)
   }
 }
+
 export default Quoll

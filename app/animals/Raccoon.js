@@ -10,4 +10,5 @@ class Raccoon {
     console.log(this)
   }
 }
+
 export default Raccoon
